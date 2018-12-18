@@ -1,6 +1,9 @@
 # 8bb-milestones
 The Bois' Milestones
 
+Smash Hero is a rhythm game where you play as a guitarist. Use the number buttons to play notes, with the leftmost note being the 1 key.
+Once you download the project, all you have to do is click the Play button!
+
 The link to download the project: https://www.dropbox.com/s/9z57ehyxwmjvojf/8bb_SmashHero.zip?dl=0
 
 This repo was only used for milestones, as Github does not easily support unity projects.
